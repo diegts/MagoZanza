@@ -33,6 +33,12 @@ nav .nav-wrapper {
   color: rgba(255,255,255,.9);
 }
  
+ .index-banner h5 {
+  margin-bottom: 100px;
+
+ }
+
+
  .section-intro {
 
   height: 100%;
